@@ -51,8 +51,7 @@ Les classes sont situés dans le dossier TP8 !
   - Algorithmes STL : `sort`, `find_if`, `search`.
   - Utilisation d’au moins deux conteneurs STL différents avec itérateurs.
 
-## Prérequis
-- **Visual Studio** : Compiler et exécuter le projet.
-- Connaissances de base en C++.
+## 💾 Fichiers de Sauvegarde
+Les données de l’entreprise sont enregistrées en fichiers .txt incluant toutes les informations sur les clients, véhicules, commandes, et employés. Ces fichiers sont lus au démarrage pour initialiser les objets, et sont mis à jour dès qu'une modification est effectuée, assurant ainsi la cohérence des données.
 
 ## Amusez vous bien ! ✨

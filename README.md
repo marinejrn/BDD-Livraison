@@ -7,6 +7,7 @@ Ce projet est une application C++ développée pour gérer les opérations de la
 - Sauvegarder les données importantes pour créer une base auto-enrichissante.
 
 ## Fonctionnalités principales
+Les classes sont situés dans le dossier TP8 !
 
 ### 🧑‍💻 Module Client
 - Ajouter, modifier ou supprimer des clients.

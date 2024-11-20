@@ -1,0 +1,8 @@
+47895,Rolex,Michel,17 avenue des moutons,michel@gmail.com,0645781296,true
+23456,Dupont,Alice,5 rue de la Paix,alice.dupont@example.com,0756894321,true
+78901,Petit,Paul,8 boulevard des Roses,paul.durand@example.com,0678941235,true
+12345,Leclerc,Marie,10 rue du Commerce,marie.leclerc@example.com,0687451236,true
+56789,Dubois,Thomas,15 avenue de la Liberte,thomas.dubois@example.com,0612345678,true
+89012,Moreau,Sophie,20 rue de la Republique,sophie.moreau@example.com,0678912345,true
+21749,Franceschini,Keops,67 rue Poupinet,keo@gmail.com,0789459632,,true
+74239,Fermigier,Sebaste,321 avenue des Moines,seb@fermig.fr,0641523614,true

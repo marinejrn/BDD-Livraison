@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (TP8.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Vehicule.cpp
+  TP8.vcxproj -> C:\Users\marjo\OneDrive - De Vinci\A3 ESILV\C_C++\Projet_Final\x64\Debug\Projet_Final.exe

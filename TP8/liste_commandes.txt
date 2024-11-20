@@ -1,0 +1,9 @@
+001,Angers,Paris,29.4,06/06/2024,marchandises perissables
+001,Monaco,Nice,35,12/06/2024,liquide
+004,Paris,Lyon,46.4,08/06/2024,liquide
+004,Pau,Toulouse,19.3,29/05/2024,sable
+010,Nice,Monaco,35,09/06/2024,sable
+010,Paris,Lyon,41.76,29/05/2024,sable
+010,Angers,Paris,26.46,01/06/2024,marchandises perissables
+004,Paris,Lyon,41.76,24/05/2024,liquide
+001,Paris,Lyon,34.8,24/05/2024,marchandises perissables

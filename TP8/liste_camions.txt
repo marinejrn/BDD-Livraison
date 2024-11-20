@@ -1,0 +1,16 @@
+camion_citerne,AL359DZ,false
+camion_benne,DG498PL,false
+camion_frigo,AG692ZS,false
+camion_citerne,BP214ML,false
+camion_benne,XC178RS,true
+camion_frigo,VD570AZ,false
+camion_benne,QA477PM,true
+camion_citerne,RD963AQ,false
+camion_citerne,AL771PS,false
+camion_frigo,PL325AD,false
+camion_benne,MP241WS,false
+camion_frigo,JK021FD,true
+camion_benne,GH421NK,false
+camion_benne,TS131SW,false
+camion_citerne,YU471VT,true
+

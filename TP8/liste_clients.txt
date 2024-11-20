@@ -1,0 +1,10 @@
+001,Dupont,Jean,1 rue des Fleurs, jean@dupt.com,0748591236,A4589F6,or,215.600000
+002,Smith,John,10 rue des Menus,john@example.com,0123456789,A8965F4,bronze,22.400000
+003,Garcia,Maria,25 rue Principal,maria@example.com,0987654321,A8963F12,bronze,0
+004,Chan,Ahmed,7 rue David,ahmed@example.com,0365987412,A7852F0,argent,107.460000
+005,Dupuis,Anna,15 rue de Paris,anna@example.com,0246135789,A63F962,bronze,0
+006,Lee,Sung,30 avenue Prince,sung@example.com,0789456123,AF64752,bronze,0
+007,Huet,Arthur,1 rue Maris,arthur@gmail.com,0741852369,A96F78,bronze,0
+008,Paurin,Michel,1 rue Pairs,paurin@michel.fr,0758964123,A54F63,bronze,0
+009,Mathevon,Martin,6 avenue des Lilas,mathevon@martin.fr,0642135789,A63FR4,bronze,0
+010,Albert,Michel,8 rue Paris,Michel@gmail.com,0610253647,A530F4,argent,140
